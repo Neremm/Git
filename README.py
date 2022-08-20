@@ -1,1 +1,1 @@
-# my python code for autotests
+print("Hello,world")
